@@ -1,0 +1,1 @@
+modiator pattan in javascript
